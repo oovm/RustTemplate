@@ -1,0 +1,8 @@
+[workspace]
+members = ["projects/*"]
+default-members = [
+    "projects/sub_projects",
+]
+
+[profile.release]
+lto = true
