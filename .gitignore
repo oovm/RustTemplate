@@ -2,10 +2,11 @@
 .DS_Store/**/*
 
 # IDE
-.vscode
-.idea
+.vscode/**/*
+.vs/**/*
+.idea/**/*
 *.iml
 
 # Rust
-target/
+target/**/*
 Cargo.lock
