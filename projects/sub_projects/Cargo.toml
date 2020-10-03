@@ -5,7 +5,7 @@ version = "0.0.0"
 authors = ["Aster <192607617@qq.com>"]
 description = "..."
 repository = "..."
-readme = "README.md"
+readme = "Readme.md"
 license = "MPL-2.0"
 edition = "2018"
 
