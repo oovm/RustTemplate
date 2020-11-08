@@ -9,3 +9,4 @@ exclude = [
 
 [profile.release]
 lto = true
+panic = "abort"
