@@ -19,5 +19,3 @@ build = "cargo build --release"
 fmt = "cargo fmt --all"
 t = "wee test -t"
 r = "git reset Head~ --hard"
-p = "cargo publish --allow-dirty"
-
