@@ -1,3 +1,5 @@
+name = "mono-repo"
+
 [workspace]
 members = ["projects/*"]
 default-members = [
