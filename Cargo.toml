@@ -10,3 +10,14 @@ exclude = [
 [profile.release]
 lto = true
 panic = "abort"
+
+[package.metadata.wee]
+test = "cargo test"
+testr = "cargo test --release"
+push = "git push"
+build = "cargo build --release"
+fmt = "cargo fmt --all"
+t = "wee test -t"
+r = "git reset Head~ --hard"
+p = "cargo publish --allow-dirty"
+
