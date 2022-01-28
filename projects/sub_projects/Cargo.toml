@@ -7,7 +7,7 @@ description = "..."
 repository = "..."
 readme = "Readme.md"
 license = "MPL-2.0"
-edition = "2018"
+edition = "2021"
 
 [dependencies]
 
@@ -15,3 +15,7 @@ edition = "2018"
 
 [features]
 default = []
+
+[package.metadata.wee]
+t = "cargo test"
+p = "cargo publish --allow-dirty"
