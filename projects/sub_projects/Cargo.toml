@@ -4,7 +4,8 @@ publish = false
 version = "0.0.0"
 authors = ["Aster <192607617@qq.com>"]
 description = "..."
-repository = "..."
+repository = "https://github.com/oovm/sub_projects"
+documentation = "https://docs.rs/sub_projects"
 readme = "Readme.md"
 license = "MPL-2.0"
 edition = "2021"
@@ -15,7 +16,3 @@ edition = "2021"
 
 [features]
 default = []
-
-[package.metadata.wee]
-t = "cargo test"
-p = "cargo publish --allow-dirty"
