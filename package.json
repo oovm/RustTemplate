@@ -4,7 +4,7 @@
         "build": "cargo build --release",
         "test": "cargo test --release",
         "fmt": "cargo fmt --all",
-        "push": "wee test && git push",
+        "p": "git push && git push --tags --prune",
         "reset": "git reset Head~ --soft",
         "u": "cargo upgrade --workspace"
     }
