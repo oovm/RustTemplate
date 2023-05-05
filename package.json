@@ -1,7 +1,7 @@
 {
     "private": true,
     "scripts": {
-        "build": "cargo build --release",
+        "doc": "cargo doc --no-deps --all-features",
         "test": "cargo test --release",
         "fmt": "cargo fmt --all",
         "p": "git push && git push --tags --prune",
