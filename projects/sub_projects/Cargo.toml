@@ -9,6 +9,7 @@ documentation = "https://docs.rs/sub_projects"
 readme = "Readme.md"
 license = "MPL-2.0"
 edition = "2021"
+exclude = ["package.json", "tests/**"]
 
 [dependencies]
 
