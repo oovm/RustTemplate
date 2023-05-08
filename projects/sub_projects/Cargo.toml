@@ -17,3 +17,6 @@ exclude = ["package.json", "tests/**"]
 
 [features]
 default = []
+
+[package.metadata.docs.rs]
+all-features = true
