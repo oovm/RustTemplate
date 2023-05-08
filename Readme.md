@@ -19,7 +19,7 @@ git commit --amend --message "🎂 Project initialized!" --date "2012-12-12"
 | 🔧🐛🐞 | Bug fix                      |  
 | 🔒     | Security fix                 |  
 | 🐣🐤🐥 | Add feature                  |  
-| 📝     | Documentation                |  
+| 📝🎀   | Documentation                |  
 | 🚀     | Performance improve!         |  
 | 🚧     | Work in progress             |  
 | 🚨     | Test coverage improve!       |  
