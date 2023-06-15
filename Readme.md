@@ -24,7 +24,7 @@ git commit --amend --message "🎂 Project initialized!" --date "2012-12-12"
 | 🚧     | Work in progress             |  
 | 🚨     | Test coverage improve!       |  
 | 🚥     | CI improve!                  |  
-| 🔥     | Remove code or files         |
+| 🔥🧨   | Remove code or files         |
 | 🧹     | Code refactor                |
 | 📈     | Add analytics or branch code |
 | 🤖     | Automation fix               |
