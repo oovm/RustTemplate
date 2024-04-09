@@ -8,6 +8,8 @@ exclude = [
     "projects/.DS_Store",
 ]
 
+[workspace.dependencies]
+
 [profile.release]
 lto = true
 panic = "abort"

@@ -6,4 +6,4 @@
 
 mod errors;
 
-pub use crate::errors::{Error, Result};
+pub use crate::errors::{ExampleErrorKind, Result, ExampleError};
